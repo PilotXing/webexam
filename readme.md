@@ -31,4 +31,4 @@ linux
   `export FLASK_DEBUG="1"`
 - run app\
   `flask run --host 0.0.0.0 -p 10000`
-  ![](webexam/static/demo/api.gif)
+  ![](webexam/static/api.gif)
